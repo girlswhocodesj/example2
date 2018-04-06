@@ -4,7 +4,7 @@
 
 body {
   background-color: white;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
@@ -12,11 +12,15 @@ body {
 }
 
 h1 {
-  font-family: "Merriweather", serif;
-  font-size: 32px;
-  color: red;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
 }
 
 p {
-  color: darkseagreen;
+  border-style: dotted;
+  border-width: 15px;
+  border-color: red;
+  text-align: right;
 }
